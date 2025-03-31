@@ -1,0 +1,5 @@
+name: totk civilization event
+version: '1.21.1'
+main: com.sylvesternumski.totkcivilizationevent
+api-version: '1.21'
+authors: [ SylvesterNumski ]
